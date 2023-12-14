@@ -1,0 +1,11 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:color="#F40303"
+        android:state_pressed="true" />
+    <item
+        android:color="#FBD900"
+        android:state_pressed="false"
+        android:state_drag_can_accept="true" />
+
+</selector>
